@@ -1,0 +1,8 @@
+M:\TSCC项目\大庆项目\大庆xlink\统一服务平台实时推送\ProjectSignaLR\obj\Release\netcoreapp3.1\PubTmp\Out\ProjectSignalR.exe
+M:\TSCC项目\大庆项目\大庆xlink\统一服务平台实时推送\ProjectSignaLR\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+M:\TSCC项目\大庆项目\大庆xlink\统一服务平台实时推送\ProjectSignaLR\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+M:\TSCC项目\大庆项目\大庆xlink\统一服务平台实时推送\ProjectSignaLR\obj\Release\netcoreapp3.1\PubTmp\Out\ProjectSignalR.dll
+M:\TSCC项目\大庆项目\大庆xlink\统一服务平台实时推送\ProjectSignaLR\obj\Release\netcoreapp3.1\PubTmp\Out\ProjectSignalR.deps.json
+M:\TSCC项目\大庆项目\大庆xlink\统一服务平台实时推送\ProjectSignaLR\obj\Release\netcoreapp3.1\PubTmp\Out\ProjectSignalR.runtimeconfig.json
+M:\TSCC项目\大庆项目\大庆xlink\统一服务平台实时推送\ProjectSignaLR\obj\Release\netcoreapp3.1\PubTmp\Out\ProjectSignalR.pdb
+M:\TSCC项目\大庆项目\大庆xlink\统一服务平台实时推送\ProjectSignaLR\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll

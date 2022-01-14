@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "M:\\TSCC项目\\大庆项目\\大庆xlink\\统一服务平台实时推送\\ProjectSignaLR\\ProjectSignalR.csproj": {}
+  },
+  "projects": {
+    "M:\\TSCC项目\\大庆项目\\大庆xlink\\统一服务平台实时推送\\ProjectSignaLR\\ProjectSignalR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\TSCC项目\\大庆项目\\大庆xlink\\统一服务平台实时推送\\ProjectSignaLR\\ProjectSignalR.csproj",
+        "projectName": "ProjectSignalR",
+        "projectPath": "M:\\TSCC项目\\大庆项目\\大庆xlink\\统一服务平台实时推送\\ProjectSignaLR\\ProjectSignalR.csproj",
+        "packagesPath": "C:\\Users\\51405\\.nuget\\packages\\",
+        "outputPath": "M:\\TSCC项目\\大庆项目\\大庆xlink\\统一服务平台实时推送\\ProjectSignaLR\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\51405\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[3.1.9, 3.1.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[3.1.9, 3.1.9]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[3.1.9, 3.1.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
